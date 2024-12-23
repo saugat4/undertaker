@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", serif;
+    color: white;
+
+
+}
+span{
+    margin-left: 60px;
+    margin-top: 300px;
+    font-size:larger;
+    font-weight: bolder;
+}
+.flowa{
+    margin-left: 60px;
+    padding-top: 50px;
+}
+.main{
+    background-color: #001d3d;
+   /* background-color: rgb(61, 28, 104); */
+    height: 1600px;
+    width: 1710px;
+    color: white;
+
+}
+ul{
+    margin-left: 800px;
+    list-style-type: none;
+    display: flex;
+    gap: 50px;
+    color: #660708;
+    margin-top: -12px;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: grey;
+    font-size: 18px;
+}
+.main1{
+    margin-left: 60px;
+    margin-top: 250px;
+    display: flex;
+    
+}
+.main2:hover img{
+    scale: 1.1;
+}
+.aa{
+    color: #fca311;
+}
+.text1{
+    color: #fca311;
+}
+.button{
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    margin-left: 60px;
+   
+}
+.button1{
+    height: 40px;
+    width: 100px;
+    background-color: blueviolet;
+    align-items: center;
+    justify-content:center;
+    
+}
+.button2{
+    height: 40px;
+    width: 110px;
+    background-color:rgb(216, 147, 11) ;
+}
+.main3{
+    display: flex;
+}
+img{
+    margin-left: 250px;
+    margin-top: -160px;
+}
+.text4{
+    margin-left: 700px;
+    margin-top: 30px;
+}
+.text5{
+    margin-left: 290px;
+
+}
+.text6{
+    margin-left: 540px;
+}
+.main4{
+    display: flex;
+    gap: -50px;
+    margin-top: 150px;
+    margin-left: -130px;
+    color: white;
+}
+.imagebox{
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 280px;
+  
+   
+}
+.imagebox:hover img{
+    scale: 1.1;
+
+}
+
+.image2{
+    margin-top: 20px;
+    border-radius: 20%;
+   
+}
+.image3{
+    
+}
+.image4{
+   
+}
+.image5{
+    
+}
+.a{
+    margin-top: 30px;
+    margin-left: -70px;
+}
+.b{
+    margin-top: 30px;
+    margin-left: -70px;
+
+}
+.button1:hover{
+    scale: 1.2;
+}
+.button2:hover{
+    scale: 1.2;
+}
+    .button{
+        gap: 30px;
+    }
+    .text4{
+        color: #fca311;
+    }
+    .main2{
+        margin-top: -60px;
+    }
